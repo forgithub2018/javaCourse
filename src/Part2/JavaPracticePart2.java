@@ -24,6 +24,12 @@ class JavaPracticePart2 {
         char[] charArray = {'q', 'w', 'e', 'r', 't', 'y'};
         char[] charSubArray = {'r', 't', 'y'};
         System.out.println(findSequence(charArray, charSubArray));
+
+        String[] arrayWords = {"abc", "bcd", "cde"};
+        String str = "bc";
+        String[] arrayMatched = showMatchedString(arrayWords, str);
+        for (String value : arrayMatched)
+            System.out.println(value);
     }
 
     // 1.принимает массив чаров, возвращает строку состоящую из символов массива
@@ -120,8 +126,22 @@ class JavaPracticePart2 {
     }
 
     // 9. Принимает массив строк и просто строку, возвращает массив строк которые содержат данную подстроку. т.е. отфильтрованый из первого
-    static int showMatchedString(char[] array) {
-        return 0;
+    static String[] showMatchedString(String[] array, String str) {
+
+        int index = 0;
+        String[] tmpArray = new String[array.length];
+
+        for (String value : array) {
+            if (value.contains(str)) {
+                tmpArray[index] = value;
+                index++;
+            }
+        }
+        String[] result = new String[index];
+        for (int i = 0; i < index; i++) {
+            result[i] = tmpArray[i];
+        }
+        return result;
     }
 
 }
