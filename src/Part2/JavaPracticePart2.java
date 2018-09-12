@@ -19,7 +19,11 @@ class JavaPracticePart2 {
         System.out.println(showDividedBy2(array, 4));
         int[] mysortArray = sortArray(array);
         for (int i : mysortArray)
-            System.out.println(i);
+            System.out.print(i + " ");
+        System.out.println();
+        char[] charArray = {'q', 'w', 'e', 'r', 't', 'y'};
+        char[] charSubArray = {'r', 't', 'y'};
+        System.out.println(findSequence(charArray, charSubArray));
 
     }
 
@@ -104,8 +108,21 @@ class JavaPracticePart2 {
     }
 
     // 8.принимает 2 массива чаров, проверяет есть ли в 1 массиве, такая же последовательность символов которую представляет собой второй массив. Возвращает булеан
-    static int findSequence(char[] array) {
-        return 0;
+    static boolean findSequence(char[] array, char[] subArray) {
+        for (int i = 0; i < array.length; i++) {
+            int countOfMatch = 0;
+            for (int j = 0; j < subArray.length; j++) {
+                if ((subArray[j] == array[i] && countOfMatch == 0) || (countOfMatch > 0 && i + j < array.length && subArray[j] == array[i + j])) {
+                    countOfMatch++;
+                }
+            }
+            if (countOfMatch == subArray.length) {
+                return true;
+
+            }
+
+        }
+        return false;
 
     }
 

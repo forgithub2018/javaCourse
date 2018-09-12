@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bc585a4d-fd26-4f98-98f2-e39ea34f1309" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/Part1/JavaPracticePart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/Part1/JavaPracticePart1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/JavaPracticePart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/JavaPracticePart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/JavaPracticePart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/JavaPracticePart2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,68 +22,55 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="java" value="198" />
-          <entry key="txt" value="201" />
+          <entry key="java" value="587" />
+          <entry key="txt" value="222" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="198" />
-          <entry key="PLAIN_TEXT" value="227" />
+          <entry key="JAVA" value="587" />
+          <entry key="PLAIN_TEXT" value="248" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/EmployeeGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="183">
+              <caret line="113" column="141" selection-start-line="113" selection-start-column="141" selection-end-line="113" selection-end-column="141" />
               <folding>
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#2773#2774#0" expanded="true" />
+                <element signature="e#2833#2834#0" expanded="true" />
+                <element signature="e#3092#3093#0" expanded="true" />
+                <element signature="e#3153#3154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#2485#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,12 +103,12 @@
       <list>
         <option value="$PROJECT_DIR$/test/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/JavaPracticePart1.java" />
-        <option value="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" />
         <option value="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" />
         <option value="$PROJECT_DIR$/src/EmployeeGenerator/Employee.java" />
         <option value="$PROJECT_DIR$/src/EmployeeGenerator/EmployeeGenerator.java" />
         <option value="$PROJECT_DIR$/src/Part1/JavaPracticePart1.java" />
         <option value="$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" />
       </list>
     </option>
   </component>
@@ -153,6 +139,12 @@
               <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayExample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -191,7 +183,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536784623738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536786844758" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -210,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeGenerator">
+  <component name="RunManager" selected="Application.JavaPracticePart2">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExample" />
       <module name="javaCourse" />
@@ -255,8 +247,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeGenerator" />
         <item itemvalue="Application.JavaPracticePart2" />
+        <item itemvalue="Application.EmployeeGenerator" />
         <item itemvalue="Application.JavaPracticePart1" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.gist_part1" />
@@ -330,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536783073909</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixed previous issues">
+      <created>1536784723146</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1536784723146</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -355,8 +354,8 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49924242" visible="true" weight="0.329582" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924242" weight="0.329582" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -379,8 +378,42 @@
     <MESSAGE value="Refactored code" />
     <MESSAGE value="Added previous code" />
     <MESSAGE value="Added new classes related to Employee functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new classes related to Employee functionality" />
+    <MESSAGE value="fixed previous issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed previous issues" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i+j" language="JAVA" />
+        <watch expression="array[i+j]" language="JAVA" />
+        <watch expression="subArray[j]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>array[i+j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i+j</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -401,16 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#2474#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -444,17 +467,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java">
+    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -465,13 +485,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#0#2485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="113" column="141" selection-start-line="113" selection-start-column="141" selection-end-line="113" selection-end-column="141" />
+          <folding>
+            <element signature="e#2773#2774#0" expanded="true" />
+            <element signature="e#2833#2834#0" expanded="true" />
+            <element signature="e#3092#3093#0" expanded="true" />
+            <element signature="e#3153#3154#0" expanded="true" />
           </folding>
         </state>
       </provider>
