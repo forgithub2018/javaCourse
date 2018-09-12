@@ -19,6 +19,7 @@ class JavaPracticePart1 {
         System.out.println(factorial(4));
         System.out.print("isLeapYear = ");
         System.out.println(isLeapYear(1980));
+        Fibbo(2);
     }
 
     // приминает 2 инта, а и б, возвращает большее их этих 2х чисел
@@ -53,8 +54,17 @@ class JavaPracticePart1 {
     }
 
     // метод принимает int n, и выводит на экран первые n чисел Фибоначи
-    static void Fibbo(int f) {
-        System.out.println(f);
+    static int Fibbo(int f) {
+        int fibonacci;
+
+        if (f <= 1) {
+            fibonacci = f;
+        } else {
+            fibonacci = Fibbo(f - 1) + Fibbo(f - 2);
+        }
+
+        System.out.print(fibonacci + " ");
+        return fibonacci;
     }
 
 }

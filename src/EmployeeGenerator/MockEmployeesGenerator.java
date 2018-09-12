@@ -5,10 +5,10 @@ public class MockEmployeesGenerator {
     // data should be more-or-less relevant. Normal names, Acceptable salary, age.
 
     final static String[] MALE_NAME = {"MYKOLA", "DMYTRO", "VOLODYMYR", "VASYL'", "PETRO", "STEPAN"};
-    final static String[] FEMALE_NAME = {"GANNA", "OKSANA", "OLENA", "NADIYA'", "VALENTYNA"};
+    final static String[] FEMALE_NAME = {"GANNA", "OKSANA", "OLENA", "NADIYA", "VALENTYNA"};
 
-    final static char[] vowelLetters = {'A', 'O', 'E', 'I'};
-    final static char[] consonantsLetter = {'V', 'N', 'B', 'P', 'D', 'M', 'T'};
+    final static char[] VOWEL_LETTERS = {'A', 'O', 'E', 'I'};
+    final static char[] CONSONANTS_LETTERS = {'V', 'N', 'B', 'P', 'D', 'M', 'T'};
     final static Random random = new Random();
 
     static String getRandomMaleName() {
@@ -22,7 +22,7 @@ public class MockEmployeesGenerator {
 
     static boolean isVowelsLetter(char letter) {
         boolean result = false;
-        for (char vowel : vowelLetters) {
+        for (char vowel : VOWEL_LETTERS) {
             if (vowel == letter) {
                 return true;
             }
@@ -36,15 +36,16 @@ public class MockEmployeesGenerator {
         int lengthLastName = 5 + random.nextInt(5);
         char[] charLastName = new char[lengthLastName];
 
+        charLastName[0] = CONSONANTS_LETTERS[random.nextInt(CONSONANTS_LETTERS.length)];
         if (random.nextInt(2) == 0) {
-            charLastName[0] = vowelLetters[random.nextInt(vowelLetters.length)];
+            charLastName[0] = VOWEL_LETTERS[random.nextInt(VOWEL_LETTERS.length)];
         }
 
         for (int i = 1; i < lengthLastName; i++) {
             if (isVowelsLetter(charLastName[i - 1])) {
-                charLastName[i] = consonantsLetter[random.nextInt(consonantsLetter.length)];
+                charLastName[i] = CONSONANTS_LETTERS[random.nextInt(CONSONANTS_LETTERS.length)];
             } else {
-                charLastName[i] = vowelLetters[random.nextInt(vowelLetters.length)];
+                charLastName[i] = VOWEL_LETTERS[random.nextInt(VOWEL_LETTERS.length)];
             }
         }
         for (char ch : charLastName) {
@@ -57,7 +58,7 @@ public class MockEmployeesGenerator {
         String lastName = generateLastName();
         char lastChar = lastName.charAt(lastName.length() - 1);
         if (!isVowelsLetter(lastChar))
-            lastName = lastName + vowelLetters[0];
+            lastName = lastName + VOWEL_LETTERS[0];
         return lastName;
     }
 
@@ -65,7 +66,7 @@ public class MockEmployeesGenerator {
         String lastName = generateLastName();
         char lastChar = lastName.charAt(lastName.length() - 1);
         if (isVowelsLetter(lastChar))
-            lastName = lastName + consonantsLetter[0];
+            lastName = lastName + CONSONANTS_LETTERS[0];
         return lastName;
     }
 
