@@ -1,3 +1,5 @@
+import java.lang.reflect.Array;
+
 public class ArrayQueue implements Queue {
     Object[] array;
     int sizeQueue = 0;
@@ -22,19 +24,22 @@ public class ArrayQueue implements Queue {
             }
             array = newArray;
         }
-
         array[sizeQueue - 1] = value;
-
     }
 
     @Override
     public Object dequeue() {
-        return null;
+        Object result = array[0];
+        for (int i = 0; i < sizeQueue; i++) {
+            array[i] = array[i + 1];
+        }
+        sizeQueue--;
+        return result;
     }
 
     @Override
     public Object peek() {
-        return array[sizeQueue - 1];
+        return array[0];
     }
 
     @Override
@@ -44,11 +49,27 @@ public class ArrayQueue implements Queue {
 
     @Override
     public boolean remove(Object value) {
-        return false;
+        boolean flag = false;
+        int newSizeQueue = 0;
+        for (int i = 0; i < sizeQueue; i++) {
+            if (value.toString().equals(array[i].toString())) {
+                array[i] = null;
+                flag = true;
+                newSizeQueue++;
+            }
+        }
+        sizeQueue = newSizeQueue == 0 ? sizeQueue : sizeQueue - newSizeQueue;
+        rearrange();
+        return flag;
     }
 
     @Override
     public boolean contains(Object value) {
+        for (Object arrayValue : array) {
+            if (value.toString().equals(arrayValue.toString())) {
+                return true;
+            }
+        }
         return false;
     }
 
@@ -63,6 +84,18 @@ public class ArrayQueue implements Queue {
 
     public void showSizes() {
         System.out.println("Array size: " + sizeArray + " Queue size: " + sizeQueue);
+    }
+
+    void rearrange() {
+        Object[] newArray = new Object[sizeArray];
+        int index = 0;
+        for (int i = 0; i < sizeArray; i++) {
+            if (array[i] != null) {
+                newArray[index] = array[i];
+                index++;
+            }
+        }
+        array = newArray;
     }
 
 }
