@@ -31,6 +31,12 @@ class ArrayExample {
         System.out.println(intTmpArray[0][0]);
         System.out.println(intTmpArray[1][2]);
 
+        int[] directArray = {1, 2, 3, 4, 5};
+        int[] reverseArray = arrayReverse(directArray);
+        for (int value : reverseArray
+        ) {
+            System.out.print(value + " ");
+        }
     }
 
     // принимает 2м массив интов, возвращает 2мерный массив чаров, каждый символ в позиции массива соответствует коду символа передаваемого инта
@@ -60,6 +66,12 @@ class ArrayExample {
         return array;
     }
 
-// Принимаем массив интов, меняет порядок элементов в массиве на противоположный ([1,2,3,4,5] -> [5,4,3,2,1])
-
+    // Принимаем массив интов, меняет порядок элементов в массиве на противоположный ([1,2,3,4,5] -> [5,4,3,2,1])
+    static int[] arrayReverse(int[] array) {
+        int[] result = new int[array.length];
+        for (int i = 0; i < array.length; i++) {
+            result[array.length - 1 - i] = array[i];
+        }
+        return result;
+    }
 }

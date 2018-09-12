@@ -24,7 +24,6 @@ class JavaPracticePart2 {
         char[] charArray = {'q', 'w', 'e', 'r', 't', 'y'};
         char[] charSubArray = {'r', 't', 'y'};
         System.out.println(findSequence(charArray, charSubArray));
-
     }
 
     // 1.принимает массив чаров, возвращает строку состоящую из символов массива
@@ -54,7 +53,6 @@ class JavaPracticePart2 {
                 }
             }
         }
-
         return index;
     }
 
@@ -76,7 +74,6 @@ class JavaPracticePart2 {
                 result = result + array[i] + ",";
 
         return result;
-
     }
 
 
@@ -93,7 +90,6 @@ class JavaPracticePart2 {
                     array[j] = tmp;
                 }
         return array;
-
     }
 
     // 7.принимает массив байт, если в массиве есть повторяющиеся елементы, возвращает тру
@@ -104,7 +100,6 @@ class JavaPracticePart2 {
                 return true;
         }
         return false;
-
     }
 
     // 8.принимает 2 массива чаров, проверяет есть ли в 1 массиве, такая же последовательность символов которую представляет собой второй массив. Возвращает булеан
@@ -118,9 +113,7 @@ class JavaPracticePart2 {
             }
             if (countOfMatch == subArray.length) {
                 return true;
-
             }
-
         }
         return false;
 
@@ -129,7 +122,6 @@ class JavaPracticePart2 {
     // 9. Принимает массив строк и просто строку, возвращает массив строк которые содержат данную подстроку. т.е. отфильтрованый из первого
     static int showMatchedString(char[] array) {
         return 0;
-
     }
 
 }

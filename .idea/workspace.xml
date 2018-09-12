@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bc585a4d-fd26-4f98-98f2-e39ea34f1309" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/JavaPracticePart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/JavaPracticePart2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/ArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaCourse/ArrayExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,40 +36,42 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="java" value="587" />
-          <entry key="txt" value="222" />
+          <entry key="java" value="832" />
+          <entry key="txt" value="273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="587" />
-          <entry key="PLAIN_TEXT" value="248" />
+          <entry key="JAVA" value="832" />
+          <entry key="PLAIN_TEXT" value="299" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="113" column="141" selection-start-line="113" selection-start-column="141" selection-end-line="113" selection-end-column="141" />
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#2773#2774#0" expanded="true" />
                 <element signature="e#2833#2834#0" expanded="true" />
                 <element signature="e#3092#3093#0" expanded="true" />
                 <element signature="e#3153#3154#0" expanded="true" />
+                <element signature="e#5259#5260#0" expanded="true" />
+                <element signature="e#5283#5284#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="585">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="e#0#2485#0" expanded="true" />
               </folding>
@@ -103,12 +106,12 @@
       <list>
         <option value="$PROJECT_DIR$/test/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/JavaPracticePart1.java" />
-        <option value="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" />
         <option value="$PROJECT_DIR$/src/EmployeeGenerator/Employee.java" />
         <option value="$PROJECT_DIR$/src/EmployeeGenerator/EmployeeGenerator.java" />
         <option value="$PROJECT_DIR$/src/Part1/JavaPracticePart1.java" />
         <option value="$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java" />
         <option value="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" />
+        <option value="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" />
       </list>
     </option>
   </component>
@@ -183,7 +186,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536786844758" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536787355113" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -202,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaPracticePart2">
+  <component name="RunManager" selected="Application.ArrayExample">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayExample" />
       <module name="javaCourse" />
@@ -247,10 +250,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.JavaPracticePart2" />
         <item itemvalue="Application.EmployeeGenerator" />
         <item itemvalue="Application.JavaPracticePart1" />
-        <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.gist_part1" />
       </list>
     </recent_temporary>
@@ -329,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536784723146</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changed logic of arrays and others minor fixes">
+      <created>1536786918087</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1536786918087</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -354,8 +364,8 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924242" weight="0.329582" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39871383" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49924242" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -379,20 +389,11 @@
     <MESSAGE value="Added previous code" />
     <MESSAGE value="Added new classes related to Employee functionality" />
     <MESSAGE value="fixed previous issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed previous issues" />
+    <MESSAGE value="changed logic of arrays and others minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed logic of arrays and others minor fixes" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java</url>
-          <line>110</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i+j" language="JAVA" />
@@ -492,25 +493,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#2485#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="113" column="141" selection-start-line="113" selection-start-column="141" selection-end-line="113" selection-end-column="141" />
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#2773#2774#0" expanded="true" />
             <element signature="e#2833#2834#0" expanded="true" />
             <element signature="e#3092#3093#0" expanded="true" />
             <element signature="e#3153#3154#0" expanded="true" />
+            <element signature="e#5259#5260#0" expanded="true" />
+            <element signature="e#5283#5284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#2485#0" expanded="true" />
           </folding>
         </state>
       </provider>
