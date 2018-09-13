@@ -29,6 +29,9 @@ public class ArrayQueue implements Queue {
 
     @Override
     public Object dequeue() {
+        if (sizeArray == 0) {
+            return null;
+        }
         Object result = array[0];
         for (int i = 0; i < sizeQueue; i++) {
             array[i] = array[i + 1];
