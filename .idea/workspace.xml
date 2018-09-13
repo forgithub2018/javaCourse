@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc585a4d-fd26-4f98-98f2-e39ea34f1309" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/javaCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/RunQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/RunQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/EmployeeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/JavaPracticePart2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/MockEmployeesGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/Part1/JavaPracticePart1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/RunTestStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaCourse/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaCourse/AraayStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaCourse/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountingSystem/AccountingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/AccountingSystem/AccountingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountingSystem/Cleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Cleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountingSystem/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountingSystem/EmploeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/AccountingSystem/EmploeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountingSystem/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccountingSystem/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayExample/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/ArrayExample/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeGenerator/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/EmployeeGenerator/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeGenerator/EmployeeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/EmployeeGenerator/EmployeeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/EmployeeGenerator/MockEmployeesGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/JavaPracticePart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Part1/JavaPracticePart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part2/JavaPracticePart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Part2/JavaPracticePart2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Queue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/RunQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Queue/RunQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Stack/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/RunTestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Stack/RunTestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/AraayStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/javacourse/ArrayStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/javacourse/CalculatorTest.java" afterDir="false" />
     </list>
     <ignored mask="workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,73 +56,80 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="31" />
+          <entry key="java" value="59" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="59" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="java" value="2183" />
-          <entry key="txt" value="368" />
+          <entry key="java" value="2321" />
+          <entry key="txt" value="377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2183" />
-          <entry key="PLAIN_TEXT" value="394" />
+          <entry key="JAVA" value="2321" />
+          <entry key="PLAIN_TEXT" value="403" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Queue/RunQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stack/ArrayStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-233">
-              <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Queue/ArrayQueue.java">
+        <entry file="file://$PROJECT_DIR$/test/com/javacourse/ArrayStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+            <state relative-caret-position="202">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
               <folding>
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#980#981#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#1878#1879#0" expanded="true" />
-                <element signature="e#1978#1979#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/javacourse/CalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javacourse/Calculator/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javacourse/ArrayExample/ArrayExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/javacourse/Stack/ArrayStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -140,6 +178,13 @@
         <option value="$PROJECT_DIR$/src/Queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/Queue/RunQueue.java" />
         <option value="$PROJECT_DIR$/src/Queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/AccountingSystem/EmploeeService.java" />
+        <option value="$PROJECT_DIR$/src/com/javacourse/Queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/test/AraayStackTest.java" />
+        <option value="$PROJECT_DIR$/test/com/javacourse/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/javacourse/Calculator/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/javacourse/Stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/test/com/javacourse/ArrayStackTest.java" />
       </list>
     </option>
   </component>
@@ -151,6 +196,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -177,19 +223,56 @@
               <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AccountingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Queue" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
               <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,12 +285,17 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536795722225" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536826145356" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.javacourse" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -221,30 +309,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunQueue">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExample" />
-      <module name="javaCourse" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeGenerator" />
-      <module name="javaCourse" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RunQueue" />
-      <module name="javaCourse" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in javaCourse">
     <configuration name="RunTestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RunTestStack" />
+      <option name="MAIN_CLASS_NAME" value="com.javacourse.Stack.RunTestStack" />
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacourse.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.javacourse.ArrayExample." type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javacourse.ArrayExample." />
       <module name="javaCourse" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -258,20 +338,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.javacourse.ArrayStackTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.javacourse.CalculatorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacourse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacourse" />
+      <option name="MAIN_CLASS_NAME" value="com.javacourse.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ArrayExample" />
-      <item itemvalue="Application.EmployeeGenerator" />
       <item itemvalue="Application.RunTestStack" />
+      <item itemvalue="JUnit.ArrayStackTest" />
+      <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="JUnit.CalculatorTest.testSum" />
       <item itemvalue="JUnit.All in javaCourse" />
-      <item itemvalue="Application.RunQueue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunQueue" />
-        <item itemvalue="Application.RunTestStack" />
-        <item itemvalue="Application.ArrayExample" />
         <item itemvalue="JUnit.All in javaCourse" />
-        <item itemvalue="Application.EmployeeGenerator" />
+        <item itemvalue="JUnit.CalculatorTest.testSum" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.ArrayStackTest" />
+        <item itemvalue="Application.RunTestStack" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536794117764</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Complete  of Queue">
+      <created>1536795785870</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1536795785870</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Complete  of Queue">
+      <created>1536819585128</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1536819585128</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -415,11 +553,11 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007576" side_tool="true" weight="0.329582" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.329582" />
+      <window_info active="true" anchor="bottom" id="Messages" order="2" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49924242" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924242" weight="0.329582" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39871383" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -477,7 +615,8 @@
     <MESSAGE value="ignored workspace.xml" />
     <MESSAGE value="last changes for javapracticepart2" />
     <MESSAGE value="Realisation of Queue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realisation of Queue" />
+    <MESSAGE value="Complete  of Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete  of Queue" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -504,43 +643,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Part1/JavaPracticePart1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1192#1193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -548,86 +650,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Part2/JavaPracticePart2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding>
-            <element signature="e#3059#3060#0" expanded="true" />
-            <element signature="e#3119#3120#0" expanded="true" />
-            <element signature="e#3378#3379#0" expanded="true" />
-            <element signature="e#3439#3440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/EmployeeGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmployeeGenerator/MockEmployeesGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayExample/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AccountingSystem/AccountingSystem.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/AccountingSystem/AccountingSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/RunTestStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Queue/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/RunQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/EmployeeGenerator/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/ArrayStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/EmployeeGenerator/MockEmployeesGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="29" />
+        <state relative-caret-position="112">
+          <caret line="86" column="13" lean-forward="true" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/ArrayQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/AccountingSystem/Cleaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/AccountingSystem/EmploeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Stack/RunTestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/EmployeeGenerator/EmployeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Part1/JavaPracticePart1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Queue/RunQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Part2/JavaPracticePart2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/javacourse/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#1878#1879#0" expanded="true" />
-            <element signature="e#1978#1979#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/ArrayExample/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/Stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/javacourse/ArrayStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
