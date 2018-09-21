@@ -1,4 +1,4 @@
-package com.javacourse.Part2;
+package com.javacourse.Day2;
 
 // ====== part 2
 // 1.принимает массив чаров, возвращает строку состоящую из символов массива

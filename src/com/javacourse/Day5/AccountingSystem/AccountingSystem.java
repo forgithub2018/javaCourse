@@ -1,4 +1,5 @@
-package com.javacourse.AccountingSystem;//        Разработать приложение по учету сотрудников предприятия.
+package com.javacourse.Day5.AccountingSystem;
+//        Разработать приложение по учету сотрудников предприятия.
 //        Типы сотрудников + характеристики для хранения:
 //        Developer (id, name, age, salary, gender, fixedBugs)
 //        Manager (id, name, age, salary, gender)

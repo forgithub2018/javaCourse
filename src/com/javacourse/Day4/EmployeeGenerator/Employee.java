@@ -1,4 +1,4 @@
-package com.javacourse.EmployeeGenerator;
+package com.javacourse.Day4.EmployeeGenerator;
 
 public class Employee {
     int id;
@@ -7,7 +7,7 @@ public class Employee {
     double salary;
 
 
-    Employee(int id, String firstName, String lastName, double salary) {
+    public Employee(int id, String firstName, String lastName, double salary) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;

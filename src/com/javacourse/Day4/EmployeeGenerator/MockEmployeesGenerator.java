@@ -1,4 +1,4 @@
-package com.javacourse.EmployeeGenerator;
+package com.javacourse.Day4.EmployeeGenerator;
 
 import java.util.Random;
 

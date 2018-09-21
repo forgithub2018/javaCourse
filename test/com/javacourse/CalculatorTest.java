@@ -3,7 +3,7 @@ package com.javacourse;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-import com.javacourse.Calculator.Calculator;
+import com.javacourse.Day3.Calculator;
 
 
 public class CalculatorTest {

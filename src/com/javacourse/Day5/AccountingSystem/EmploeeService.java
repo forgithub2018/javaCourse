@@ -1,4 +1,4 @@
-package com.javacourse.AccountingSystem;
+package com.javacourse.Day5.AccountingSystem;
 
 //        Разработать класс EmployeeService который будет хранить всех сотрудников предприятия в массиве.
 //        Класс должен содержать методы для работы с сотрудниками (которые представлены массивом внутри класса):
